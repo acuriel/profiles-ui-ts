@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About API
+
+This project requires the provided API running.
+Please update variables in the `AxiosApiService` file in case of different port or url than defaults (http://localhost:8000).
 
 ## Available Scripts
 
